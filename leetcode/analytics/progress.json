@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-03-13T12:49:42.570Z",
+  "totalAcceptedSubmissions": 1,
+  "uniqueProblemsSolved": 1,
+  "solvedToday": 1,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "languageBreakdown": {
+    "cpp": 1
+  },
+  "topicBreakdown": {
+    "misc": 1
+  },
+  "last7Days": [
+    {
+      "date": "2026-03-07",
+      "count": 0
+    },
+    {
+      "date": "2026-03-08",
+      "count": 0
+    },
+    {
+      "date": "2026-03-09",
+      "count": 0
+    },
+    {
+      "date": "2026-03-10",
+      "count": 0
+    },
+    {
+      "date": "2026-03-11",
+      "count": 0
+    },
+    {
+      "date": "2026-03-12",
+      "count": 0
+    },
+    {
+      "date": "2026-03-13",
+      "count": 1
+    }
+  ],
+  "recentProblems": [
+    {
+      "title": "3296. Minimum Number of Seconds to Make Mountain Height Zero",
+      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "language": "cpp",
+      "day": "2026-03-13",
+      "problemUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "solutionPath": "leetcode/minimum-number-of-seconds-to-make-mountain-height-zero-3296.-minimum-number-of-seconds-to-make-mountain-height-zero/solution.cpp"
+    }
+  ]
+}
